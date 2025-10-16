@@ -1,5 +1,5 @@
 //your JS code here. If required.
-const document.querySelector("#level");
+document.querySelector("#level");
 let count = 0;
 let previous = level.previousElementSibling;
 while (previous) {
